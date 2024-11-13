@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c102a5e6-0508-42a1-af2c-f517d429ed32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArrayCollections/Mapa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Cachorro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Gato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Interface/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Basic/ExemploMaiusculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Basic/ExemploSoma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Basic/Soma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Basic/Upper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Predicate/ArrayPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Predicate/ExPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Supplier/ExSuplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lambda/Supplier/ListSupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/BinaryOperator/ExBinaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/UnaryOperator/ExUnaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lambda/UnaryOperator/UnaryOperatorInverter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,18 +26,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;Wayne5421&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "assignee": "Wayne5421"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Wayne5421/Learn-Java.git&quot;,
-    &quot;accountId&quot;: &quot;d72b75b3-03d7-4f6e-991e-a3dba25e48bd&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Wayne5421/Learn-Java",
+    "accountId": "1cc434fb-6a84-4bf1-aa14-c2fc7ad08902"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -63,8 +52,10 @@
   "keyToString": {
     "Application.Array.executor": "Run",
     "Application.ArrayPredicate.executor": "Run",
+    "Application.ExBinaryOperator.executor": "Run",
     "Application.ExPredicate.executor": "Run",
     "Application.ExSuplier.executor": "Run",
+    "Application.ExUnaryOperator.executor": "Run",
     "Application.ExemploMaiusculo.executor": "Run",
     "Application.ExemploSoma.executor": "Run",
     "Application.FIFO.executor": "Run",
@@ -78,10 +69,13 @@
     "Application.Mapa.executor": "Run",
     "Application.Matriz.executor": "Run",
     "Application.Pessoa.executor": "Run",
+    "Application.UnaryOperatorInverter.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/caiog/AppData/Local/Temp/Rar$DRa5068.44847.rartemp/learnJava/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/caiog/AppData/Local/Temp/Rar$DRa5068.44847.rartemp/learnJava/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
