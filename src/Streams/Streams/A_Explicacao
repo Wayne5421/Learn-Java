@@ -1,0 +1,60 @@
+filter()	Filtra elementos com base em uma condição	Números pares
+
+.filter(num -> num % 2 == 0) = numeros pares
+
+
+
+
+map()	Transforma os elementos	Letras maiúsculas
+
+.map(num -> num * 2) = multiplica todos os numeros na lista por 2
+
+
+
+sorted()	Ordena os elementos	Ordem crescente/decrescente
+
+.sorted((a, b) -> a - b ) = ordem crescente
+.sorted((a, b) -> b - a ) = ordem descrescente
+
+
+
+forEach()	Itera sobre cada elemento	Exibe os elementos
+
+.forEach(num -> System.out.println("Numero: " + num)) = Imprime cada um dos numeros com essa mensagem
+
+
+
+
+count()	Conta os elementos	Quantidade de itens
+
+.filter(num -> num > 5)
+.count(); = conta quantos valores na lista são maiores que 5
+
+
+
+
+
+reduce()	Reduz os elementos a um único valor	Soma de números
+
+.reduce(0, Integer::sum); = inicia o contador com 0 e soma tudo que está dentro da lista
+
+
+
+
+collect()	Converte para lista, conjunto ou outra estrutura	Nova lista
+
+.filter(num -> num > 5)
+.map(num -> num ** 2)
+.collect(Colectors.toList()); = filtra numeros que são maiores que 5, elevam ao quadrado e cria uma nova lista com o resultado
+
+
+
+
+
+
+
+
+
+
+
+
