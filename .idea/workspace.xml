@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c102a5e6-0508-42a1-af2c-f517d429ed32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Streams/Combinacoes/AllAnyNoneMatchStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/MinMax/MinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/A_Explicacao" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/ContarNumerosList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/ExStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/FiltrarNome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/ImprimirObjetos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/OrdenarElementosLista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/ParallelStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Streams/Streams/SomaLista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Caixa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CaixaInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CaixaIntTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/CaixaTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/ListGenericsTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/ListaGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Streams/MinMax/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/ArrayCollections/FIFO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/ArrayCollections/FIFO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/learnJava/ArrayCollections/LIFO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/ArrayCollections/LIFO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJava/Streams/MinMax/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/Streams/MinMax/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/learnJava/Streams/Streams/A_Explicacao" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/learnJava/Streams/Streams/A_Explicacao" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/MinMax/MinMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/MinMax/MinMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Streams/Streams/A_Explicacao" beforeDir="false" afterPath="$PROJECT_DIR$/src/Streams/Streams/A_Explicacao" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +43,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Wayne5421/Learn-Java&quot;,
-    &quot;accountId&quot;: &quot;1cc434fb-6a84-4bf1-aa14-c2fc7ad08902&quot;
+    &quot;accountId&quot;: &quot;9ab401c6-2b6e-4d04-9597-0eddd891ee5b&quot;
   }
 }</component>
+  <component name="MavenRunner">
+    <option name="jreName" value="azul-17" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -62,6 +65,9 @@
     "Application.AllMatchStream.executor": "Run",
     "Application.Array.executor": "Run",
     "Application.ArrayPredicate.executor": "Run",
+    "Application.CaixaIntTest.executor": "Run",
+    "Application.CaixaObjetoTeste.executor": "Run",
+    "Application.CaixaTeste.executor": "Run",
     "Application.ContarElementosLista.executor": "Run",
     "Application.ContarNumerosList.executor": "Run",
     "Application.ExBinaryOperator.executor": "Run",
@@ -78,6 +84,7 @@
     "Application.LIFO.executor": "Run",
     "Application.LinkedList.executor": "Run",
     "Application.List.executor": "Run",
+    "Application.ListGenericsTeste.executor": "Run",
     "Application.ListaLincada.executor": "Run",
     "Application.Loops.executor": "Run",
     "Application.Main.executor": "Run",
@@ -96,7 +103,10 @@
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/caiog/IdeaProjects/Learn-Java",
     "onboarding.tips.debug.path": "C:/Users/caiog/AppData/Local/Temp/Rar$DRa5068.44847.rartemp/learnJava/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.keymap"
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RecentsManager">

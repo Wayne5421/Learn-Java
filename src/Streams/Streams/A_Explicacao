@@ -5,7 +5,7 @@ filter()	Filtra elementos com base em uma condição	Números pares
 
 
 
-map()	Transforma os elementos	Letras maiúsculas
+map()	Transforma os elementos	ex: Letras maiúsculas
 
 .map(num -> num * 2) = multiplica todos os numeros na lista por 2
 
